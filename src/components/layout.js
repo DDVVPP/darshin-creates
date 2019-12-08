@@ -30,13 +30,13 @@ const Layout = props => {
                 <Link to={`/`}>Home</Link>
               </li> */}
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>About</Link>
+                <Link to={`/about`}>Projects</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/elements`}>Illustration</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Tags</Link>
+                <Link to={`/tags`}>Ceramics</Link>
               </li>
             </ul>
           </nav>
@@ -48,31 +48,23 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="/resume.pdf"
+                title="Resume"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Resume
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://www.linkedin.com/in/darshinvanparijs"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                LinkedIn
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
               <a
-                href="https://github.com/vaporwavy/gatsby-london-after-midnight"
+                href="https://github.com/DDVVPP/"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
