@@ -51,12 +51,6 @@ function SEO({ description, lang, meta, keywords, title }) {
           property: `og:type`,
           content: `website`,
         },
-
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author,
-        },
-
         {
           name: `twitter:description`,
           content: metaDescription,

@@ -24,19 +24,19 @@ const Layout = props => {
               </div>
             </div>
           </a>
-          <nav id="swup" class="site-head-left">
+          <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               {/* <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li> */}
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>Projects</Link>
+                <Link to={`/projects`}>Projects</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Illustration</Link>
+                <Link to={`/illustration`}>Illustration</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Ceramics</Link>
+                <Link to={`/ceramics`}>Ceramics</Link>
               </li>
             </ul>
           </nav>

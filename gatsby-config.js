@@ -12,8 +12,22 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/projects`,
+        name: `projects`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/illustration`,
+        name: `illustration`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/ceramics`,
+        name: `illustration`,
       },
     },
     {
@@ -84,7 +98,6 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: siteConfig.name,
-        short_name: siteConfig.shortName,
         start_url: siteConfig.prefix,
         background_color: `#ffffff`,
         theme_color: `#663399`,
