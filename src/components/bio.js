@@ -8,7 +8,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-import ContactForm from "./contactForm"
 
 function Bio() {
   return (
@@ -18,21 +17,23 @@ function Bio() {
         const { author } = data.site.siteMetadata
         return (
           <section>
-            {/* <Image
+            <Image
               fixed={data.avatar.childImageSharp.fixed}
               alt={author}
               imgStyle={{
                 borderRadius: `50%`,
               }}
-            /> */}
+            />
+            <h2>Hi!</h2>
             <p>
-              "Hi! I'm an Architectural Designer turned
+              " I'm an Architectural Designer turned
               <strong> Fullstack Software Engineer</strong> who likes to eat
               delicious food, workout at my local CrossFit gym, and dabble in
               ceramics, illustration, and dance."
               {/* Break */}
               <p>
-                <ContactForm />
+                Feel free to email me at{" "}
+                <a href="mailto:darshin@gmail.com">darshinvp@gmail.com</a> !
               </p>
             </p>
           </section>
@@ -44,9 +45,9 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
+    avatar: file(absolutePath: { regex: "/Me.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
+        fixed(width: 300, height: 300) {
           ...GatsbyImageSharpFixed
         }
       }
