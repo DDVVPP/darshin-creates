@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -16,6 +15,9 @@ class WorkTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
+        {/* <article
+          className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
+        > */}
         <article
           className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
         >
@@ -27,7 +29,7 @@ class WorkTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
-          {post.frontmatter.thumbnail && (
+          {/* {post.frontmatter.thumbnail && (
             <div className="post-content-image">
               <Img
                 className="kg-image"
@@ -35,7 +37,7 @@ class WorkTemplate extends React.Component {
                 alt={post.frontmatter.title}
               />
             </div>
-          )}
+          )} */}
 
           <div
             className="post-content-body"

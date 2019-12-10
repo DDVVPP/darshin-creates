@@ -1,6 +1,6 @@
 ---
 title: Cindr
-order: "3"
+order: 2
 date: "2019-09-06"
 tags: [blue, color]
 thumbnail: ./cody-davis-253928-unsplash.jpg

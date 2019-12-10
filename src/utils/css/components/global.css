@@ -107,9 +107,9 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
 }
-img {
+/* img {
   max-width: 50%;
-}
+} */
 html {
   box-sizing: border-box;
   font-family: sans-serif;
@@ -376,7 +376,12 @@ h2 {
 }
 @media (max-width: 500px) {
   h2 {
-    font-size: 2rem;
+    font-size: 1.9rem;
+  }
+  @media (max-width: 375px) {
+    h2 {
+      font-size: 1.75rem;
+    }
   }
 }
 

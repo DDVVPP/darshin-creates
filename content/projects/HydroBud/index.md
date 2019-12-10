@@ -1,6 +1,6 @@
 ---
 title: HydroBud
-order: "2"
+order: 3
 date: "2019-09-07"
 tags: [pink, color]
 thumbnail: ./ian-dooley-298769-unsplash.jpg

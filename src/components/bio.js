@@ -8,6 +8,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import ContactForm from "./contactForm"
 
 function Bio() {
   return (
@@ -17,16 +18,22 @@ function Bio() {
         const { author } = data.site.siteMetadata
         return (
           <section>
-            <Image
+            {/* <Image
               fixed={data.avatar.childImageSharp.fixed}
               alt={author}
               imgStyle={{
                 borderRadius: `50%`,
               }}
-            />
+            /> */}
             <p>
-              Written by <strong>{author}</strong> who lives and works in Osaka
-              building useful things.
+              "Hi! I'm an Architectural Designer turned
+              <strong> Fullstack Software Engineer</strong> who likes to eat
+              delicious food, workout at my local CrossFit gym, and dabble in
+              ceramics, illustration, and dance."
+              {/* Break */}
+              <p>
+                <ContactForm />
+              </p>
             </p>
           </section>
         )

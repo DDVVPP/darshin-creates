@@ -1,6 +1,6 @@
 ---
 title: Bart's Wigs
-order: "1"
+order: 1
 date: "2019-10-08"
 thumbnail: ./bbbb.jpg
 description: Node.js | PostgreSQL | Sequelize | Express | React-Redux
@@ -12,7 +12,7 @@ I used a poly reduction on the mesh as a proxy to be able to create my studio se
 
 This is the final render.
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-width-full">
 
 ![Darkness](./BLACK_II_desktop-1.jpg)
 

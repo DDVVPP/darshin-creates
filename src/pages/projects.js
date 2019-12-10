@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -24,10 +23,7 @@ const ProjectsPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2>
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
-          </h2>
+          <h2>Software Engineering Projects</h2>
           <div className="post-feed">
             {slicedPosts.map(({ node }) => {
               postCounter++
@@ -49,7 +45,7 @@ const ProjectsPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure> */}
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          {/* <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
             London comes with photo-centric main layout best suited to
             photography, graphics portfolios and other image-heavy uses.
@@ -69,7 +65,7 @@ const ProjectsPage = ({ data }, location) => {
               Ghost Integrations Directory
             </a>{" "}
             for more ways to integrate Ghost with your favourite services.
-          </p>
+          </p> */}
         </div>
       </article>
     </Layout>
