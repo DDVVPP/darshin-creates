@@ -337,13 +337,14 @@ blockquote cite a {
 }
 
 a {
-  color: color(var(--color-primary) l(-5%));
+  color: color(var(--color-spare1) l(-20%));
   text-decoration: none;
   transition: 0.4s ease;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: color(var(--color-spare1) l(-40%));
   transition: 0.2s ease;
 }
 
@@ -406,6 +407,6 @@ h5 {
 }
 
 h6 {
-  margin: 1.5em 0 1em 0;
+  margin: 3.5em 0 1em 0;
   font-size: 2.2rem;
 }

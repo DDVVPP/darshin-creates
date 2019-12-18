@@ -27,14 +27,15 @@
   opacity: 0.4;
 } */
 
-/* .kg-width-wide {
+.kg-width-wide {
   position: relative;
-  width: 75vw;
-  min-width: 100%;
+  width: 85vw;
+  max-width: 100%;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
+  margin-top: calc(-5vw + 0.75em);
   transform: translateX(calc(50vw - 50%));
-} */
+}
 
 .kg-width-full {
   position: relative;
