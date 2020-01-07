@@ -1,10 +1,10 @@
 ---
 title: HydroBud
-order: 3
+order: 2
 date: "2019-09-07"
 tags: [pink, color]
 thumbnail: ./MainImageHydroBud.png
-description: Node.js | React-Native | Cloud Firestone | Figma | Adobe Illustrator
+description: Node.js | React-Native | Cloud Firestone | HTML & CSS | Figma | Adobe Illustrator
 ---
 
 ###### A gamified hydration tracker.
