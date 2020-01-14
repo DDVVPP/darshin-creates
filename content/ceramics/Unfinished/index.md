@@ -2,33 +2,36 @@
 title: Unfinished
 order: 22
 date: "2019-05-03"
-thumbnail: ./QuizzicalBack.jpg
-description: Unfinished work
+thumbnail: ./QuizzicalBack.png
+description: Red clay | Unfinished handbuilt sculptures
 ---
 
 <div class="kg-width-full">
 
-![Quizzical](./QuizzicalBack.jpg)
-
-<p style="margin-top: -6vw">
-Quizzical from the back
+<p style="margin-top: 6vw">
+Quizzical figure greenware
 </p>
+
+![Quizzical](./QuizzicalBack.png)
+
 </div>
 
 <div class="kg-width-full">
 
-![Quizzical](./QuizzicalFront.jpg)
-
-<p style="margin-top: -6vw">
-Quizzical from the front
+<p style="margin-top: 6vw">
+Quizzical figure greenware
 </p>
+
+![Quizzical](./QuizzicalFront.png)
+
 </div>
 
 <div class="kg-width-full">
 
-![Agape](./Agape.jpg)
-
-<p style="margin-top: -6vw">
-Agape man
+<p style="margin-top: 6vw">
+Agape figure greenware
 </p>
+
+![Agape](./Agape.png)
+
 </div>

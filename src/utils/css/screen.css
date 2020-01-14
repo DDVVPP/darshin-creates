@@ -604,11 +604,16 @@ body {
   justify-content: center;
   font-size: 1.5rem;
   line-height: 1.65em;
+  margin-left: calc(50% - 35vw);
+  margin-right: calc(50% - 35vw);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
   .post-content-body {
     font-size: 1.5rem;
+  }
+  .post-content-body-ceramicsCard {
+    flex-wrap: wrap;
   }
 }
 

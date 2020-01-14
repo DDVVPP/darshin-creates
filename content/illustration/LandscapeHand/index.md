@@ -8,10 +8,10 @@ description: Pen | Adobe Photoshop
 
 <div class="kg-width-full">
 
-![LandscapeHand](./LandscapeHand.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]
 </p>
+
+![LandscapeHand](./LandscapeHand.jpg)
 
 </div>

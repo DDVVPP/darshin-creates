@@ -8,9 +8,10 @@ description: Pen | Adobe Illustrator
 
 <div class="kg-width-full">
 
-![Face](./Face.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Will I wake up one morning and discover that my face is gone?
 </p>
+
+![Face](./Face.jpg)
+
 </div>

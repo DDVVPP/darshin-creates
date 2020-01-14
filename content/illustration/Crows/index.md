@@ -8,9 +8,10 @@ description: Pen | Adobe Photoshop
 
 <div class="kg-width-full">
 
-![Crows](./CrowsSelf.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Ever have one of these days?
 </p>
+
+![Crows](./CrowsSelf.jpg)
+
 </div>

@@ -8,9 +8,10 @@ description: Pen | Adobe Illustrator | Adobe Photoshop
 
 <div class="kg-width-full">
 
-![Phones](./Phones.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 [Noodles or Phones? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]
 </p>
+
+![Phones](./Phones.jpg)
+
 </div>

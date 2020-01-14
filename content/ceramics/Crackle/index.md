@@ -2,15 +2,16 @@
 title: Crackle Mug
 order: 15
 date: "2019-05-03"
-thumbnail: ./CrackleGlazeware.jpg
-description: Crackle glaze on this mug.
+thumbnail: ./CrackleGlazeware.png
+description: Recycled clay | Crackle glaze
 ---
 
 <div class="kg-width-full">
 
-![Ramen](./CrackleGlazeware.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Glazeware
 </p>
+
+![Ramen](./CrackleGlazeware.png)
+
 </div>

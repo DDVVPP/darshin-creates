@@ -2,15 +2,16 @@
 title: Beehive
 order: 14
 date: "2019-05-03"
-thumbnail: ./BeehiveVase.jpg
-description: Vase made with red clay and no glaze.
+thumbnail: ./BeehiveVase.png
+description: Red clay | Interior grey glaze | 4-1/2" Tall vase
 ---
 
 <div class="kg-width-full">
 
-![Ramen](./BeehiveVase.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Glazeware
 </p>
+
+![Beehive](./BeehiveVase.png)
+
 </div>

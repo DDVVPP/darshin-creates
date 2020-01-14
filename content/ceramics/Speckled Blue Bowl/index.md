@@ -1,34 +1,37 @@
 ---
-title: Speckled
+title: Splattered
 order: 20
 date: "2019-05-03"
-thumbnail: ./SpeckledBisqueware.jpg
-description: placeholder
+thumbnail: ./SpeckledBisqueware.png
+description: Recycled clay | Blue and white glazes | First wheelthrown object
 ---
 
 <div class="kg-width-full">
 
-![Speckled](./SpeckledBisqueware.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Bisqueware
 </p>
+
+![Speckled](./SpeckledBisqueware.png)
+
 </div>
 
 <div class="kg-width-full">
 
-![Speckled](./SpeckledGlazeware.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Glazeware
 </p>
+
+![Speckled](./SpeckledGlazeware.png)
+
 </div>
 
 <div class="kg-width-full">
 
-![Speckled](./SpeckledGlazewareSide.jpg)
-
-<p style="margin-top: -6vw">
+<p style="margin-top: 6vw">
 Glazeware
 </p>
+
+![Speckled](./SpeckledGlazewareSide.png)
+
 </div>
