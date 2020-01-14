@@ -10,9 +10,6 @@ description: Pen | Adobe Illustrator
 
 ![Face](./Face.jpg)
 
-</div>
-
-<div class="kg-width-full">
 <p style="margin-top: -6vw">
 Will I wake up one morning and discover that my face is gone?
 </p>

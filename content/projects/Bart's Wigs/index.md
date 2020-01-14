@@ -6,6 +6,8 @@ thumbnail: ./AllWigs.png
 description: Node.js | PostgreSQL | Sequelize | Express | React-Redux | HTML & CSS | Figma
 ---
 
+<div class="kg-width-wide">
+
 ###### An e-commerce wig store.
 
 **Version 2 of Bart's Wigs:** As a solo developer, I updated the UX/UI experience and the seed file, added a wig length filter and an order history page.
@@ -25,8 +27,6 @@ rel="noopener noreferrer">GitHub Repository</a><br/>
 title="Heroku"
 target="_blank"
 rel="noopener noreferrer">Deployed on Heroku</a><br/>
-
-<div class="kg-width-wide">
 
 `youtube:https://www.youtube.com/`
 

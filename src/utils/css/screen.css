@@ -598,6 +598,14 @@ body {
   font-size: 1.5rem;
   line-height: 1.65em;
 }
+
+.post-content-body-ceramicsCard {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  line-height: 1.65em;
+}
+
 @media (max-width: 500px) {
   .post-content-body {
     font-size: 1.5rem;

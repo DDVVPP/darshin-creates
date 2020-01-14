@@ -40,7 +40,7 @@ class WorkTemplate extends React.Component {
           )} */}
 
           <div
-            className="post-content-body"
+            className="post-content-body-ceramicsCard"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
 

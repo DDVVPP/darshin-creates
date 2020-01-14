@@ -28,23 +28,29 @@
 } */
 
 .kg-width-wide {
-  position: relative;
+  /* position: relative; */
   width: 85vw;
   max-width: 100%;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+  /* margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw); */
   margin-top: 3rem;
-  transform: translateX(calc(50vw - 50%));
+  /* transform: translateX(calc(50vw - 50%)); */
 }
 
 .kg-width-full {
+  min-width: 43%;
+  width: 35vw;
+  padding: 2rem;
+}
+
+/* .kg-width-full {
   position: relative;
   width: 35vw;
   min-width: 43%;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
-}
+} */
 
 /* .kg-width-full figcaption {
   padding-left: 0;

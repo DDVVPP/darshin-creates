@@ -10,9 +10,6 @@ description: Pen | Adobe Photoshop
 
 ![Crows](./CrowsSelf.jpg)
 
-</div>
-
-<div class="kg-width-full">
 <p style="margin-top: -6vw">
 Ever have one of these days?
 </p>

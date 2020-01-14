@@ -7,6 +7,8 @@ thumbnail: ./MainImageHydroBud.png
 description: Node.js | React-Native | Cloud Firestone | HTML & CSS | Figma | Adobe Illustrator
 ---
 
+<div class="kg-width-wide">
+
 ###### A gamified hydration tracker.
 
 **A four-day stackathon project.** I find that I drink too much coffee during the day, and not enough water which dries me out and depeletes my energy. As a result, I’ve created a hydration tracker called Hydro Bud that will recommend the ideal number of cups a day that a user should drink, and track the number of cups that are actually consumed, while building fun animated creatures to encourage healthy drinking habits.
@@ -32,8 +34,6 @@ rel="noopener noreferrer">GitHub Project
 </a>
 
 \*\*All illustrations for Hydro Bud were created by me with exception to the Home, Stats, and Settings icons sourced from <a href="https://www.flaticon.com/authors/freepik" title="Freepik" target="_blank" rel="noopener noreferrer">Freepik</a>.
-
-<div class="kg-width-wide">
 
 `youtube:https://www.youtube.com/embed/9BMVZPwo97I`
 

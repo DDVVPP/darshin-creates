@@ -7,6 +7,8 @@ thumbnail: ./CindrCave.png
 description: Node.js | PostgreSQL | Sequelize | Express | React-Redux | Phaser | HTML & CSS
 ---
 
+<div class="kg-width-wide">
+
 ###### A social choose-your-own-adventure game.
 
 Collaborated in a team of four to build a dating/friendship web app. Cindr takes the adventurer to their best possible matches based on a series of mythological storyline-questions. Adventurers will meet each other in different places in the game map by requesting to initiate conversation.
@@ -22,8 +24,6 @@ target="_blank"
 rel="noopener noreferrer">Deployed on Heroku</a>
 
 <!-- \*\*All illustrations for Hydro Bud were created by me with exception to the Home, Stats, and Settings icons sourced from <a href="https://www.flaticon.com/authors/freepik" title="Freepik" target="_blank" rel="noopener noreferrer">Freepik</a>. -->
-
-<div class="kg-width-wide">
 
 `youtube:https://www.youtube.com/`
 

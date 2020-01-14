@@ -10,10 +10,8 @@ description: Pen
 
 ![TreesMountains](./Armadillo.jpg)
 
-</div>
-
-<div class="kg-width-full">
 <p style="margin-top: -6vw">
 Black and white. Inspired by armadillos.
 </p>
+
 </div>

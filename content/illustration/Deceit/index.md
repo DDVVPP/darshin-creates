@@ -10,9 +10,6 @@ description: Pen | Adobe Illustrator | Adobe Photoshop
 
 ![Phones](./Phones.jpg)
 
-</div>
-
-<div class="kg-width-full">
 <p style="margin-top: -6vw">
 [Noodles or Phones? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]
 </p>
