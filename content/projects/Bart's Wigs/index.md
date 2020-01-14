@@ -26,7 +26,7 @@ rel="noopener noreferrer">GitHub Repository</a><br/>
 <a href="https://grace-shopper-wigs.herokuapp.com/"
 title="Heroku"
 target="_blank"
-rel="noopener noreferrer">Deployed on Heroku</a><br/>
+rel="noopener noreferrer">Check out the live site: Deployed on Heroku</a><br/>
 
 `youtube:https://www.youtube.com/`
 
