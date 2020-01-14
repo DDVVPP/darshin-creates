@@ -21,10 +21,10 @@ rel="noopener noreferrer">GitHub Repository
 <a href="http://cindr.herokuapp.com/"
 title="Heroku"
 target="_blank"
-rel="noopener noreferrer">Try it yourself: Deployed on Heroku</a>
+rel="noopener noreferrer">Demo available on Heroku</a>
 
 <!-- \*\*All illustrations for Hydro Bud were created by me with exception to the Home, Stats, and Settings icons sourced from <a href="https://www.flaticon.com/authors/freepik" title="Freepik" target="_blank" rel="noopener noreferrer">Freepik</a>. -->
 
-`youtube:https://www.youtube.com/embed/qATCHMMRbYM`
+`youtube:https://www.youtube.com/embed/jDQBv6138G8?list=PLx0iOsdUOUmlpYYeTgL0sVL08CydbhAS7`
 
 </div>
