@@ -26,14 +26,19 @@ function Bio() {
             />
             <h2>Hi!</h2>
             <p>
-              " I'm an Architectural Designer turned
+              I'm an Architectural Designer turned
               <strong> Fullstack Software Engineer</strong> who likes to eat
               delicious food, workout at my local CrossFit gym, and dabble in
-              ceramics, illustration, and dance."
-              {/* Break */}
+              ceramics, illustration, and dance.
+              <p></p>
               <p>
                 Feel free to email me at{" "}
                 <a href="mailto:darshin@gmail.com">darshinvp@gmail.com</a> !
+              </p>
+              <p></p>
+              <p>
+                This website is built with Gatsby, GraphQL, and deployed on
+                Netlify.{" "}
               </p>
             </p>
           </section>

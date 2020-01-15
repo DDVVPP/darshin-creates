@@ -23,8 +23,6 @@ title="Heroku"
 target="_blank"
 rel="noopener noreferrer">Demo available on Heroku</a>
 
-<!-- \*\*All illustrations for Hydro Bud were created by me with exception to the Home, Stats, and Settings icons sourced from <a href="https://www.flaticon.com/authors/freepik" title="Freepik" target="_blank" rel="noopener noreferrer">Freepik</a>. -->
-
 `youtube:https://www.youtube.com/embed/jDQBv6138G8?list=PLx0iOsdUOUmlpYYeTgL0sVL08CydbhAS7`
 
 </div>

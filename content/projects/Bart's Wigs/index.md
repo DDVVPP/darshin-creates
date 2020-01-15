@@ -22,7 +22,7 @@ title="GitHubWigs"
 target="_blank"
 rel="noopener noreferrer">GitHub Repository</a><br/>
 
-**Version 1 of Bart's Wigs:** Collaborated in a three-person team over xdays to build an e-commerce website that sells wigs. See video below.<br/>
+**Version 1 of Bart's Wigs:** Collaborated in a three-person team over six days to build an e-commerce website that sells wigs. See video below.<br/>
 <a href="https://grace-shopper-wigs.herokuapp.com/"
 title="Heroku"
 target="_blank"
@@ -31,9 +31,3 @@ rel="noopener noreferrer">Check out the live site: Deployed on Heroku</a><br/>
 `youtube:https://www.youtube.com/`
 
 </div>
-
-<!-- <div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_I_desktop-1.jpg)
-
-</div> -->
