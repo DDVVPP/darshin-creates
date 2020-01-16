@@ -45,7 +45,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="/Darshin Van Parijs Resume.pdf"
+                href="/DarshinVanParijsResume.pdf"
                 title="Resume"
                 target="_blank"
                 rel="noopener noreferrer"
