@@ -9,7 +9,7 @@ description: Pen | Adobe Photoshop
 <div class="kg-width-full">
 
 <p style="margin-top: 6vw">
-[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]
+<strong>SVA Prompt:</strong> The Totoro Forest Project: Illustrate a piece that depicts a sense of human encroachment in a magical place.</br>
 </p>
 
 ![LandscapeHand](./LandscapeHand.jpg)

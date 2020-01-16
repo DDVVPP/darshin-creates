@@ -9,7 +9,7 @@ description: Pen | Adobe Photoshop
 <div class="kg-width-full">
 
 <p style="margin-top: 6vw">
-Ever have one of these days?
+<strong>Inktober Prompt:</strong> Exhausted.
 </p>
 
 ![Crows](./CrowsSelf.jpg)

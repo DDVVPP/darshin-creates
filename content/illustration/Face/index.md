@@ -9,7 +9,7 @@ description: Pen | Adobe Illustrator
 <div class="kg-width-full">
 
 <p style="margin-top: 6vw">
-Will I wake up one morning and discover that my face is gone?
+I worry that I'll wake up one day and find that my face is no longer where it should be.
 </p>
 
 ![Face](./Face.jpg)
