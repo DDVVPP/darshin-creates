@@ -13,7 +13,7 @@ description: Node.js | React-Native | Cloud Firestone | HTML & CSS | Figma | Ado
 
 **A four-day stackathon project.** I find that I drink too much coffee during the day, and not enough water which dries me out and depeletes my energy. As a result, I’ve created a hydration tracker called Hydro Bud that will recommend the ideal number of cups a day that a user should drink, and track the number of cups that are actually consumed, while building fun animated creatures to encourage healthy drinking habits.
 
-\*The mobile app is still a work in progress. Please refer to figma layouts and GitHub Project for concept.<br/>
+\*The mobile app is still a work in progress. Please refer to figma layouts and GitHub Project for concept.</br> \*\*Please note that all illustrations and animations were created after the four-day stackathon deadline.<br/>
 <a href="https://www.figma.com/proto/mKwVMgt2vAGAANk1Bnkm6r/HYDRO-BUD?node-id=12%3A64&scaling=scale-down"
 title="FigmaLayout"
 target="_blank"

@@ -21,7 +21,7 @@ rel="noopener noreferrer">GitHub Repository
 <a href="http://cindr.herokuapp.com/"
 title="Heroku"
 target="_blank"
-rel="noopener noreferrer">Demo available on Heroku</a>
+rel="noopener noreferrer">Checkout a demo of the site deployed on Heroku</a>
 
 `youtube:https://www.youtube.com/embed/jDQBv6138G8?list=PLx0iOsdUOUmlpYYeTgL0sVL08CydbhAS7`
 
