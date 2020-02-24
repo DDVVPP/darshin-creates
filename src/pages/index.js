@@ -15,8 +15,8 @@ const HomeIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Posts"
-        keywords={[`devlog`, `blog`, `gatsby`, `javascript`, `react`]}
+        title="About"
+        keywords={[`portfolio`, `gatsby`, `javascript`, `react`]}
       />
 
       {data.site.siteMetadata.description && (
