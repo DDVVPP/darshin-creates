@@ -10,18 +10,31 @@ description: Node.js | PostgreSQL | Sequelize | Express | React-Redux | HTML & C
 
 ###### An e-commerce wig store.
 
-**Version 2 of Bart's Wigs:** As a solo developer, I am in the process of updating the UX/UI experience, the seed file, wig length filter, and order history.
+**Version 2 of Bart's Wigs:** As a solo developer,
 
-\*Version 2 of Bart's Wigs is still a work in progress. Please refer to figma layout for concept.<br/>
+* I have updated:
+  * the app styling throughout the site
+  * updates to navbar when logged in vs. logged out
+  * added a home page component with featured wigs
+  * updated the seed file
+  * updated the wig and order models in the backend
+  * implemented wig length filter
+  * orders correctly added to database
+  * form validations on checkout, signup, and login forms
+  * increase the wig quantity and price in the cart
+* I would like to update:
+  * the 'My orders' component to display previous order summaries
+  * adapt styles for different devices and browsers
+  * incorporate payment
+
 <a href="https://grace-shopper-v2.herokuapp.com/"
 title="Heroku"
 target="_blank"
-rel="noopener noreferrer">Check out the live site deployed on Heroku</a><br/>
-
-<a href="https://www.figma.com/proto/nJ6kqa4LeFI2U1w3gLtq9L/Bart-s-Wigs?node-id=14%3A43&scaling=scale-down"
+rel="noopener noreferrer">Live site of version 2 deployed on Heroku</a><br/>
+<a href="https://www.figma.com/file/nJ6kqa4LeFI2U1w3gLtq9L/Bart-s-Wigs?node-id=14%3A42"
 title="FigmaLayout"
 target="_blank"
-rel="noopener noreferrer">Figma Demo - Main Prototype</a><br/>
+rel="noopener noreferrer">Figma - Main Prototype</a><br/>
 <a href="https://github.com/DDVVPP/Grace-Shopper"
 title="GitHubWigs"
 target="_blank"
@@ -31,7 +44,11 @@ rel="noopener noreferrer">GitHub Repository</a><br/>
 <a href="https://grace-shopper-wigs.herokuapp.com/"
 title="Heroku"
 target="_blank"
-rel="noopener noreferrer">Check out the live site deployed on Heroku</a><br/>
+rel="noopener noreferrer">Live site of version 1 deployed on Heroku</a><br/>
+<a href="https://github.com/thats-so-ravenclaw/grace-shopper"
+title="GitHubWigs"
+target="_blank"
+rel="noopener noreferrer">GitHub Repository</a><br/>
 
 <!-- `youtube:https://www.youtube.com/` -->
 

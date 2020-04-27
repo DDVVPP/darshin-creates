@@ -27,8 +27,8 @@ function Bio() {
             <h2>Hi!</h2>
             <p>
               I'm an Architectural Designer turned
-              <strong> Fullstack Software Engineer</strong> who likes to eat
-              delicious food, workout at my local CrossFit and / or F45 gym, and
+              <strong> Fullstack Software Developer</strong> who likes to eat
+              delicious food, workout, and
               dabble in ceramics, illustration, and dance.
               <p></p>
               <p>
